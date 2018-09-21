@@ -1,0 +1,19 @@
+.marketplace-settings-container {
+    background: #fff;
+    padding: 20px;
+}
+
+.settings-block {
+    margin: 0 0 15px 0;
+}
+
+.settings-block label {
+    display: block;
+    font-weight: bold;
+    margin: 0 0 5px 0;
+}
+
+.settings-block input[type='text'], .settings-block input[type='number'] {
+    display: block;
+    width: 100%;
+}
